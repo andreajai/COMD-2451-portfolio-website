@@ -1,8 +1,10 @@
-/*         
-            @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-        
-            font-family: "Nunito Sans", serif; */
-
+p, nav  {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
 
 .row {
   display: flex;
@@ -10,6 +12,16 @@
   padding: 0 4px;
 }
 
+/* BACKGROUND OF PAGES */
+body {
+  background-color:black;
+  }
+
+/* IMAGE HOVER OPACITY */
+img:hover {
+  opacity: 0.5;
+}
+  
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;

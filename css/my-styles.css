@@ -1,10 +1,4 @@
-/*         
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-
-font-family: "Nunito Sans", serif; */
-
-
-h3, p, nav {
+h1, h3, p, b, nav {
   font-family: "Gabarito", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -12,21 +6,19 @@ h3, p, nav {
   color: white;
 }
 
-
-
-/* {
-font-family: "Nunito", sans-serif;
-font-optical-sizing: auto;
-font-weight: 400;
-font-style: normal;
-color: #665544;
-box-sizing: border-box;} */
+#contact {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
 
 /* BACKGROUND OF PAGES */
 body {
 background-color:black;
 }
-s
+
 header h1 {
 color: #b11b00; }
 
