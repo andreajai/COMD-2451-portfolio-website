@@ -1,4 +1,4 @@
-h1, h3, p, nav {
+h1, h3, p, b, nav {
   font-family: "Gabarito", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -6,11 +6,24 @@ h1, h3, p, nav {
   color: white;
 }
 
+#contact {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+/* ABOUT ME CONTAINER */
+#about {
+  background-color:#b11b00;
+  }
+
 /* BACKGROUND OF PAGES */
 body {
 background-color:black;
 }
-s
+
 header h1 {
 color: #b11b00; }
 
@@ -269,7 +282,7 @@ left: -100%;
 top: 70px;
 gap: 0;
 flex-direction: column;
-background-color: #262626;
+background-color: black;
 width: 100%;
 text-align: center;
 transition: 0.3s;

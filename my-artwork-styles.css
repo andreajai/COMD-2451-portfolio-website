@@ -12,14 +12,24 @@ p, nav  {
   padding: 0 4px;
 }
 
+/* BACKGROUND OF PAGES */
+body {
+  background-color: #b11b00;
+  }
+
+/* IMAGE HOVER OPACITY */
+img:hover {
+  opacity: 0.5;
+}
+  
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
-  padding: 0 4px;
+  padding: 0 10px;
 }
 
 .column img {
-  margin-top: 8px;
+  margin-top: 20px;
   vertical-align: middle;
 }
 
@@ -111,7 +121,7 @@ a{
     top: 70px;
     gap: 0;
     flex-direction: column;
-    background-color: #262626;
+    background-color: black;
     width: 100%;
     text-align: center;
     transition: 0.3s;
