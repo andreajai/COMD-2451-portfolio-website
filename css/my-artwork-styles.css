@@ -12,6 +12,15 @@ p, nav  {
   padding: 0 4px;
 }
 
+/* NAV NAME */
+.nav-branding {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  color:#b11b00;
+}
+
 /* BACKGROUND OF PAGES */
 body {
   background-color: #b11b00;

@@ -10,9 +10,16 @@ body {
   background-color: #0c0c0c;
   }
 
+/* NAV NAME */
+.nav-branding {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  color:#b11b00;
+}
 
 /* hamburger menu */
-
 *{
     padding: 0;
     margin: 0;
@@ -60,7 +67,7 @@ body {
   }
   
   .nav-link:hover{
-    color: yellow;
+    color: #ffff00;
   }
   
   .hamburger{

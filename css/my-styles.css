@@ -14,10 +14,24 @@ h1, h3, p, b, nav {
   color: white;
 }
 
+/* NAV NAME */
+.nav-branding {
+  font-family: "Gabarito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  color:#b11b00;
+}
+
 /* ABOUT ME CONTAINER */
 #about {
   background-color:#b11b00;
   }
+
+/* IMAGE HOVER OPACITY */
+img:hover {
+  opacity: 0.5;
+}
 
 /* BACKGROUND OF PAGES */
 body {
