@@ -12,6 +12,10 @@ p, nav  {
   padding: 0 4px;
 }
 
+#home {
+  padding-top: 88px;
+}
+
 /* NAV NAME */
 .nav-branding {
   font-family: "Gabarito", sans-serif;
